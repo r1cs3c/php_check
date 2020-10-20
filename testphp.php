@@ -18,7 +18,7 @@
 </html>
 
 <?php
-#test
+
 $servername = “localhost”;
 
 $username = “root”;
