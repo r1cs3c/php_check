@@ -41,6 +41,7 @@ die(“Connection failed: ” . mysqli_connect_error());
 
 $id = $_GET[‘id’];
 //Vuln?
+//what?
 $sql = “SELECT * FROM products where ID=”.$id;
 
 $result = mysqli_query($conn, $sql);
